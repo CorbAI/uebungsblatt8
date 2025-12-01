@@ -31,4 +31,6 @@ public interface Queue {
      * @return frischer Array mit den Werten der Warteschlange.
      */
     int[] toArray();
+
+    
 }
